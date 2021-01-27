@@ -13,7 +13,7 @@ self.host = "192.168.2.28" to self.host = "" (type in your networks ip where the
 # How to get your network's ip
 Run **server.py** and it will relay your ip to you
 
-# How to Play the Game
+# How to play the game
 To run the game you'll need to have **server.py** running
 
 After **server.py** is up and running, run **game.py**
