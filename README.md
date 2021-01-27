@@ -2,7 +2,7 @@
 Recreation of agar.io created in Python
 
 # How does it work
-This game runs off a local network (every person playing is on the same wifi) meaning it runs off of your networks ip adress.
+This game runs off a local network (every person playing is on the same wifi) meaning it runs off of your networks ip address.
 
 Meaning multiple people can play from different computers
 
