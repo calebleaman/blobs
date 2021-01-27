@@ -8,7 +8,7 @@ Meaning multiple people can play from different computers
 
 To use this program you'll need to go into **client.py** and change line #13:
 
-self.host = "192.168.2.28" to self.host = "___.___._.__" (type in your networks ip where the blanks are)
+self.host = "192.168.2.28" to self.host = "" (type in your networks ip where the blank is)
 
 # How to get your network's ip
 Run **server.py** and it will relay your ip to you
